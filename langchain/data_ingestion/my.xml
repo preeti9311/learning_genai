@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<company>
+    <company_name>TechNova Solutions</company_name>
+    <location>Delhi</location>
+
+    <employees>
+
+        <employee>
+            <id>EMP001</id>
+            <name>Rahul Sharma</name>
+            <age>28</age>
+            <gender>Male</gender>
+            <department>Engineering</department>
+            <designation>Software Engineer</designation>
+            <email>rahul@technova.com</email>
+            <salary>75000</salary>
+            <joining_date>2022-06-15</joining_date>
+            <skills>
+                <skill>Python</skill>
+                <skill>SQL</skill>
+                <skill>LangChain</skill>
+            </skills>
+            <address>
+                <city>Delhi</city>
+                <country>India</country>
+            </address>
+        </employee>
+
+        <employee>
+            <id>EMP002</id>
+            <name>Priya Singh</name>
+            <age>31</age>
+            <gender>Female</gender>
+            <department>Data Science</department>
+            <designation>Data Scientist</designation>
+            <email>priya@technova.com</email>
+            <salary>95000</salary>
+            <joining_date>2021-03-20</joining_date>
+            <skills>
+                <skill>Python</skill>
+                <skill>Machine Learning</skill>
+                <skill>TensorFlow</skill>
+            </skills>
+            <address>
+                <city>Noida</city>
+                <country>India</country>
+            </address>
+        </employee>
+
+        <employee>
+            <id>EMP003</id>
+            <name>Amit Kumar</name>
+            <age>26</age>
+            <gender>Male</gender>
+            <department>Engineering</department>
+            <designation>Backend Developer</designation>
+            <email>amit@technova.com</email>
+            <salary>68000</salary>
+            <joining_date>2023-01-10</joining_date>
+            <skills>
+                <skill>Java</skill>
+                <skill>Spring Boot</skill>
+                <skill>MySQL</skill>
+            </skills>
+            <address>
+                <city>Gurgaon</city>
+                <country>India</country>
+            </address>
+        </employee>
+
+        <employee>
+            <id>EMP004</id>
+            <name>Neha Verma</name>
+            <age>29</age>
+            <gender>Female</gender>
+            <department>Human Resources</department>
+            <designation>HR Manager</designation>
+            <email>neha@technova.com</email>
+            <salary>82000</salary>
+            <joining_date>2020-11-05</joining_date>
+            <skills>
+                <skill>Recruitment</skill>
+                <skill>Employee Relations</skill>
+                <skill>Payroll</skill>
+            </skills>
+            <address>
+                <city>Delhi</city>
+                <country>India</country>
+            </address>
+        </employee>
+
+        <employee>
+            <id>EMP005</id>
+            <name>Vikram Patel</name>
+            <age>35</age>
+            <gender>Male</gender>
+            <department>Management</department>
+            <designation>Project Manager</designation>
+            <email>vikram@technova.com</email>
+            <salary>120000</salary>
+            <joining_date>2019-07-12</joining_date>
+            <skills>
+                <skill>Project Management</skill>
+                <skill>Agile</skill>
+                <skill>Scrum</skill>
+            </skills>
+            <address>
+                <city>Mumbai</city>
+                <country>India</country>
+            </address>
+        </employee>
+
+        <employee>
+            <id>EMP006</id>
+            <name>Anjali Mehta</name>
+            <age>27</age>
+            <gender>Female</gender>
+            <department>Data Engineering</department>
+            <designation>Data Engineer</designation>
+            <email>anjali@technova.com</email>
+            <salary>88000</salary>
+            <joining_date>2022-09-01</joining_date>
+            <skills>
+                <skill>Python</skill>
+                <skill>Apache Spark</skill>
+                <skill>SQL</skill>
+                <skill>Airflow</skill>
+            </skills>
+            <address>
+                <city>Bangalore</city>
+                <country>India</country>
+            </address>
+        </employee>
+
+    </employees>
+</company>

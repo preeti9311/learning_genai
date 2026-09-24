@@ -1,0 +1,19 @@
+In modern AI applications, data ingestion plays a critical role. For example, in Retrieval-Augmented Generation (RAG) systems, documents are ingested, cleaned, chunked, converted into embeddings, and stored in a vector database so that an AI model can retrieve relevant information when answering user questions.
+
+Some popular tools used for data ingestion include Apache Kafka, Apache NiFi, Airbyte, Fivetran, AWS Glue, and Azure Data Factory.
+
+The quality of any data-driven system depends heavily on the quality of its data ingestion process. If incorrect, incomplete, or outdated data enters the system, the results produced by analytics or AI models may also be inaccurate.
+
+In conclusion, data ingestion is the foundation of the data lifecycle. It ensures that data flows from various sources into systems where it can create value through reporting, analytics, machine learning, and artificial intelligence.
+
+There are two main types of data ingestion:
+
+Batch Ingestion – Data is collected and transferred at scheduled intervals, such as every hour or every day.
+Real-Time or Streaming Ingestion – Data is transferred continuously as it is generated, allowing systems to react immediately to new information.
+
+A typical data ingestion pipeline consists of several stages:
+
+Data collection from sources
+Data validation and cleaning
+Data transformation and formatting
+Loading data into the target system
